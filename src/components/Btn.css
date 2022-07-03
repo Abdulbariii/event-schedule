@@ -1,5 +1,9 @@
 .con-btn {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  padding: 5px;
+}
+
+.btn {
+  margin: 5px;
 }
